@@ -4,7 +4,7 @@ Template Name: Archives
 */
 
   get_header();
-  query_posts("");
+  query_posts("showposts=-1");
   ?>
     <div class="page archivos">
   <?php
