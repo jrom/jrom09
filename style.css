@@ -193,3 +193,10 @@ textarea
 {
   margin-left: 240px;
 }
+
+blockquote
+{
+  border-left: 6px solid #A5CC98;
+  padding-left: 20px;
+  font-style: italic;
+}
