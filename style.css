@@ -123,7 +123,22 @@ ul, ol { margin-left: 2em; }
   margin-top: 0;
 }
 
+.comment .fn
+{
+  font-size: 2em;
+  line-height: 2em;
+}
+.comment cite.fn
+{
+  font-style: normal;
+}
+
 .comment .wp_syntax
+{
+  clear: both;
+}
+
+.comment p
 {
   clear: both;
 }
