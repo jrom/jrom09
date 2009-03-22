@@ -63,6 +63,9 @@ img { margin: 20px auto; }
 code
 {
   font-family: 'Courier New', monospace;
+  background-color: #FFFFFF;
+  border-bottom: 1px solid silver;
+  padding: 0 3px;
 }
 
 h1, h2, h3, h4
